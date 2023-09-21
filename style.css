@@ -57,6 +57,7 @@ body {
 
 
 .logo{
+    justify-self: center;
     align-self: center;
 }
 body.demos .section-title img {
