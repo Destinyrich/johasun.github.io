@@ -57,7 +57,7 @@ body {
 
 
 .logo{
-    align-self: start;
+    align-self: center;
 }
 body.demos .section-title img {
     max-width: 280px;
