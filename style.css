@@ -57,9 +57,9 @@ body {
 
 
 .logo{
-    justify-self: center;
-    align-self: center;
+   
     padding-top: 20px;
+
 }
 body.demos .section-title img {
     max-width: 280px;
