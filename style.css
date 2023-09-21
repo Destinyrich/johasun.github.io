@@ -56,7 +56,10 @@ body {
 }
 
 
-
+.logo{
+    height: 50;
+    width: 50;
+}
 body.demos .section-title img {
     max-width: 280px;
     display: block;
