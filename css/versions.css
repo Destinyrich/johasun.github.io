@@ -79,7 +79,7 @@ body.realestate_version .icon-wrapper:hover i:hover,
 body.realestate_version .grd1:hover,
 body.realestate_version .grd1:focus {
     background-position: 100px;
-    color: #ffffff;
+    color: #000000;
     background: #5c5c5c;
 }
 
