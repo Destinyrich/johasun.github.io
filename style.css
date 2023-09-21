@@ -1107,7 +1107,7 @@ body.realestate_version .header_style_01 .navbar-right > li.search-option form b
 }
 
 .single-feature {
-    background: #000;
+    background: transparent;
 	text-align: center;
 	padding: 30px 25px 45px 25px;
     
